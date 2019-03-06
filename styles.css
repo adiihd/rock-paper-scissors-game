@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #24272E;
+    background-color: #292C34;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 }
 
  header > h1{
-    color: #24272E;
+    color: #292C34;
     text-align: center;
     font-family: Asap, sans-serif;
  }
@@ -53,5 +53,12 @@ header {
 }
 
 .result {
-    
+    font-size: 40px;
+    color: white;    
+}
+
+.result > p {
+    text-align: center;
+    font-weight: bold;
+    font-family: Asap, sans-serif;
 }
