@@ -71,5 +71,31 @@ header {
 .choice {
     display: inline-block;
     margin: 0 15px;
+    transition: all 0.3s ease;
 }
 
+#action-message {
+    text-align: center;
+    color: white;
+    font-family: Asap, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*#r:hover{
+    background-image: url('img/rock-onclick.png');
+    height: 150px;
+    width: 150px;
+}
+
+#p:hover{
+    background-image: url('img/paper-onclick.png');
+    height: 150px;
+    width: 150px;
+}
+
+#s:hover{
+    background-image: url('img/scissors-onclick.png');
+    height: 150px;
+    width: 150px;
+}*/
