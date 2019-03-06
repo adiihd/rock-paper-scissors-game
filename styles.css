@@ -62,3 +62,14 @@ header {
     font-weight: bold;
     font-family: Asap, sans-serif;
 }
+
+.choices {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.choice {
+    display: inline-block;
+    margin: 0 15px;
+}
+
